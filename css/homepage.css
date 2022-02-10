@@ -10,7 +10,8 @@ a {
     color: white;
     background-color: grey;
     padding: 15px;
-    float: left;
+    display:inline-block;
+    margin-bottom: 5px;
 }
 
 img {
