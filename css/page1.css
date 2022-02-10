@@ -1,0 +1,23 @@
+body {
+    font-family: "Droid Serif";
+    background-color: darkred;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    padding: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.link {
+    margin: 20px;
+}
