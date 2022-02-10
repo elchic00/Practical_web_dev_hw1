@@ -1,0 +1,23 @@
+body {
+    font-family: "DejaVu Sans";
+    background-color: forestgreen;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+    padding: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.link {
+    margin: 20px;
+}
