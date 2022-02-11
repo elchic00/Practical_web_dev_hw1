@@ -1,0 +1,28 @@
+body {
+    font-family: "Liberation Serif";
+    background-color: lightgrey;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rebeccapurple;
+    padding: 15px;
+}
+
+.pics {
+    display:flex;
+    justify-content: space-between;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.link {
+    margin: 20px;
+}
