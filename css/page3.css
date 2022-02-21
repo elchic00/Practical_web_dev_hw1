@@ -1,13 +1,13 @@
 body {
     font-family: "Liberation Serif";
-    background-color: dodgerblue;
+    background-color: mediumseagreen;
     text-align: center;
 }
 
 a {
     text-decoration: none;
-    color: darkblue;
-    background-color: white;
+    color: white;
+    background-color: darkslategrey;
     padding: 15px;
 }
 

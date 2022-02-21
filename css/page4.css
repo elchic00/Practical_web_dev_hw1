@@ -1,0 +1,23 @@
+body {
+    font-family: "fangsong";
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    background-color: white;
+    padding: 15px;
+    position:relative;
+    left:650px;
+}
+img {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.link {
+    margin: 20px;
+}
