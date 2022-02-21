@@ -15,12 +15,22 @@ a {
     display:flex;
     justify-content: space-between;
 }
+.pics :nth-child(1){
+    width: 75%;
+}
+.pics :last-child{
+    width: 75%;
+}
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 33%;
     margin-bottom: 20px;
+}
+h4{
+    color:#141765
 }
 
 .link {
