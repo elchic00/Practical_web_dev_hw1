@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="453c9af1-ed43-45d6-9706-fa50f1d04d14" name="Changes" comment="" />
+    <list default="true" id="453c9af1-ed43-45d6-9706-fa50f1d04d14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/deck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gazebo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +50,7 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
@@ -63,10 +70,22 @@
       <workItem from="1644449304555" duration="5602000" />
       <workItem from="1644506491636" duration="3801000" />
       <workItem from="1644597991065" duration="1272000" />
+      <workItem from="1645455959359" duration="789000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
