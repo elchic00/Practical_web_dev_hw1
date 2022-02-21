@@ -4,8 +4,10 @@
     <list default="true" id="453c9af1-ed43-45d6-9706-fa50f1d04d14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/page3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/page3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/page4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/page4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
       <workItem from="1644449304555" duration="5602000" />
       <workItem from="1644506491636" duration="3801000" />
       <workItem from="1644597991065" duration="1272000" />
-      <workItem from="1645455959359" duration="2353000" />
+      <workItem from="1645455959359" duration="4531000" />
     </task>
     <servers />
   </component>
